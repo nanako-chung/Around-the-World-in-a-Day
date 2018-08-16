@@ -40,7 +40,7 @@ public class NorthAmerica {
 		"The Bahamas"
 	};
 
-	// array of fun facts attained from different sites
+	// array of fun facts attained from different websites
 	public static String[] funFacts = {
 		"The tallest mountain in the world (when measured from the sea floor) is Mauna Kea, which is in Hawaii.",
 		"Canada is the second largest country in the world.",
