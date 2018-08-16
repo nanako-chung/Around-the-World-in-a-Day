@@ -31,4 +31,6 @@ public class Asia {
 		"Dominican Republic",
 		"The Bahamas"
 	};
+
+	// HEAP
 }

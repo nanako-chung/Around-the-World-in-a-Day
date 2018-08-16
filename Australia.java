@@ -7,6 +7,9 @@ public class Australia {
 		"New Zealand",
 
 		// Oceana
-		"Papua New Guinea"
+		"Papua New Guinea",
+		""
 	};
+
+	// PRIORITY QUEUE
 }

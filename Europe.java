@@ -52,6 +52,8 @@ public class Europe {
 		"Serbia"
 	};
 
+	// QUEUE
+
 	public static void main(String[] args) {
 		System.out.println(countries.length);
 	}
